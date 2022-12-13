@@ -1,5 +1,3 @@
-tadeochristopher / README.md
-
 <h3>Hello there! I'm Walker👋🏼</h3>
 <hr style="width: 50%; text-align: left; margin-left: 0; background: #ed811f;" />
 <ul style="list-style-type: none;">
