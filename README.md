@@ -1,7 +1,7 @@
 tadeochristopher / README.md
 
 <h3>Hello there! I'm Walker👋🏼</h3>
-<hr style="width: 90%; text-align: left; margin-left: 0; background: #ed811f;" />
+<hr style="width: 50%; text-align: left; margin-left: 0; background: #ed811f;" />
 <ul style="list-style-type: circle;">
   <li>📝 <a href="https://drive.google.com/file/d/1FJP3g8ca7mdcA87k_bk_mAZORnT_2o5e/view" target="_blank" style="color: #ed811f; text-decoration: none; text-shadow: 2px 0 1px #000111, 0 0 2px #ed811f;">Summation</a></li>
   <li>💼 <a href="https://tadeochristopher.dev" target="_blank" style="color: #ed811f; text-decoration: none; text-shadow: 2px 0 1px #000111, 0 0 2px #ed811f;">Portfolio</a></li>
