@@ -1,4 +1,4 @@
-<h3>Hello there! I'm Walker👋🏼</h3>
+<h3>Hello there! I'm Walker<img src="https://github.com/tadeochristopher/contentrepo/blob/main/WavingHandHi.png" width="18" height="18" /></h3>
 <hr style="width: 50%; text-align: left; margin-left: 0; background: #ed811f;" />
 <ul style="list-style-type: none;">
   <li>Glad you showed up! Anything I can do for you, drop me a line if I can be of service to you.
