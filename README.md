@@ -1,3 +1,4 @@
+<div style="border: 1px solid #000; border-radius: 16px; width: 100%; max-width: 500px;">
 <h3>Hello there! I'm Walker<img src="https://github.com/tadeochristopher/contentrepo/blob/e7bb1384fe93bb6522296f7c81bf02735875b193/WavingHandHi.png" width="18" height="18" /></h3>
 <hr style="width: 50%; text-align: left; margin-left: 0; background: #ed811f;" />
 <ul style="list-style-type: none;">
@@ -18,3 +19,4 @@
 tadeochristopher/tadeochristopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
