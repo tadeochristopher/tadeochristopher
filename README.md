@@ -8,7 +8,7 @@
         <a href="https://drive.google.com/file/d/1FJP3g8ca7mdcA87k_bk_mAZORnT_2o5e/view" target="_blank" style="color: #ed811f; text-decoration: none; text-shadow: 2px 0 1px #000111, 0 0 2px #ed811f;">Summation</a>
       </li>
       <li>💼 <a href="https://tadeochristopher.dev" target="_blank" style="color: #ed811f; text-decoration: none; text-shadow: 2px 0 1px #000111, 0 0 2px #ed811f;">Portfolio</a></li>
-      <li><img src="https://github.com/tadeochristopher/contentrepo/blob/e7bb1384fe93bb6522296f7c81bf02735875b193/Remote.png" width="18" height="18" />Remote Solutions Architect</li>
+      <li><img src="https://github.com/tadeochristopher/contentrepo/blob/e7bb1384fe93bb6522296f7c81bf02735875b193/Remote.png" width="18" height="18" /> Remote Solutions Architect</li>
       <li>Upcoming Work...</li>
     </ul>
   </li>
