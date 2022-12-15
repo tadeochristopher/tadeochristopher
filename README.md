@@ -59,7 +59,7 @@
 <br />
 ![Tadeochristopher Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadeochristopher&show_icons=true&theme=radical&hide_rank=true&hide_star=true&border_color=ed811f&hide_title=true&card_width=200)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&layout=compact&card_width=400&theme=radical&border_color=ed811f&title_color=ed811f&langs_count=10)](https://github.com/tadeochristopher/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&langs_count=10&border_color=ed811f&theme=radical&title_color=ed811f)](https://github.com/tadeochristopher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&langs_count=10&border_color=ed811f&theme=radical&title_color=ed811f&custom_title=Usage Frequency)](https://github.com/tadeochristopher/github-readme-stats)
 </div>
 <br />
 <div align="right">
