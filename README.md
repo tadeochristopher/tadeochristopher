@@ -1,4 +1,4 @@
-<h3>Hello there! I'm Walker<img src="https://github.com/tadeochristopher/tadeochristopher/blob/b43aa1a652b5e951c8f18ba5e33f8cdabba24ae2/WavingHandHi.png" width="18" height="18" />&nbsp;<img src="https://github.com/tadeochristopher/tadeochristopher/blob/5d27857840a8ffc6fc6c964bb8131e30afc670dd/CodeAddict.png" width="18" height="18" /> a Solutions Architect and Engineer</h3>
+<h3>Hello there! I'm Walker<img src="https://github.com/tadeochristopher/tadeochristopher/blob/b43aa1a652b5e951c8f18ba5e33f8cdabba24ae2/WavingHandHi.png" width="18" height="18" />&nbsp;<img src="https://github.com/tadeochristopher/tadeochristopher/blob/5d27857840a8ffc6fc6c964bb8131e30afc670dd/CodeAddict.png" width="18" height="18" /> a Solutions Architect and Engineer <img src="https://github.com/tadeochristopher/tadeochristopher/blob/64ce7e44bf4426301b4282657db08f35f9b89e3c/DevIcon.svg" alt="Dev" title="Developer" width="28" height="28" /></h3>
 <hr style="width: 50%; text-align: left; margin-left: 0; background: #ed811f; line-height: .5px;" />
 <div id="socialLinkedIn" align="center"><img src="https://github.com/tadeochristopher/tadeochristopher/blob/be66ababc7ca9e216a0ec159e29391e7adc86c32/Working---Loop.gif" width="148" height="148" /><br /><a href="https://www.linkedin.com/in/tadeo-christopher-w-30b19820a/" target="_blank"><img src="https://github.com/tadeochristopher/tadeochristopher/blob/cb94fc2709a1bc5d60006ff6ca37c6452e4e4d0e/Louisville.png" width="18" height="18" title="University of Louisville" alt="University of Louisville" /></a>&nbsp;<a href="https://www.linkedin.com/in/apprehensivegent/" target="_blank"><img src="https://github.com/tadeochristopher/tadeochristopher/blob/7b305df07927546b3c5a30ed5d391157b74d981a/Sullivan.png" width="18" height="18" title="Sullivan University" alt="Sullivan University" /></a>&nbsp;<a href="#" target="_blank"><img src="https://github.com/tadeochristopher/tadeochristopher/blob/11d527c1a5b5ec042e40aed99ae9222c22c4a18f/Kentucky.png" width="18" height="18" style="cursor: pointer;" alt="University of Kentucky" title="University of Kentucky" /></a></div>
 <ul style="list-style-type: none;">
@@ -16,7 +16,7 @@
 </ul>
 <br />
 <h3>Tech Stack</h3><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" theme="calm" align="right" borderColor=%ed811f />
-<hr style="width: 90%; />
+<hr style="width: 90%;" />
            <p dir="auto">C# <b style="font-size: 18pt;">&middot;</b> AWS <b style="font-size: 18pt;">&middot</b> Azure <b style="font-size: 18pt;">&middot;</b> T-SQL <b style="font-size: 18pt;">&middot;</b> PL/SQL <b style="font-size: 18pt;">&middot;</b> JS <b style="font-size: 18pt;">&middot;</b> TS <b style="font-size: 18pt;">&middot;</b> Node <b style="font-size: 18pt;">&middot;</b> Vue <b style="font-size: 18pt;">&middot;</b> Linux <b style="font-size: 18pt;">&middot;</b> Windows <b style="font-size: 18pt;">&middot;</b> F# <b style="font-size: 18pt;">&middot;</b> PHP <b style="font-size: 18pt;">&middot;</b> Postgres SQL <b style="font-size: 18pt;">&middot;</b> R <b style="font-size: 18pt;">&middot;</b> Python <b style="font-size: 18pt;">&middot;</b> .Net Core <b style="font-size: 18pt;">&middot;</b> HTML5 <b style="font-size: 18pt;">&middot;</b> CSS3 <b style="font-size: 18pt">&middot;</b>Sass <b style="font-size: 18pt">&middot</b> jQuery <b style="font-size: 18pt">&middot</b> Lambda <b style="font-size: 18pt">&middot</b> React <b style="font-size: 18pt">&middot</b> Xamarin <b style="font-size: 18pt">&middot</b> Figma <b style="font-size: 18pt">&middot</b> Zen <b style="font-size: 18pt">&middot</b> API <b style="font-size: 18pt">&middot</b> Git <b style="font-size: 18pt">&middot</b> Powershell <b style="font-size: 18pt">&middot</b> Java</p>
 <br />
 <div style="display: flex; flex-wrap: wrap; padding: 0 4px; pointer-events: none;">
@@ -55,7 +55,11 @@
  <hr style="width: 90%" />
 
 ### :fire: Tadeochristopher Walker's GitHub Stats :
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tadeochristopher&theme=dark&background=171c28)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tadeochristopher&theme=dark&background=171c28&border=ed811f)](https://git.io/streak-stats)
+<br />
+![Tadeochristopher Walker's GitHub stats](https://github-readme-stats.vercel.app/api?username=tadeochristopher&show_icons=true&theme=radical&hide_rank=true&hide_star=true&border_color=ed811f&hide_title=true&card_width=200)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&layout=compact&card_width=400&theme=radical&border_color=ed811f&title_color=ed811f&langs_count=10)](https://github.com/tadeochristopher/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&langs_count=10&border_color=ed811f&theme=radical&title_color=ed811f)](https://github.com/tadeochristopher/github-readme-stats)
 </div>
 <br />
 <div align="right">
