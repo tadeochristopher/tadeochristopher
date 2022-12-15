@@ -15,7 +15,8 @@
 </ul>
 <br />
 <h3>Tech Stack</h3>
-
+<hr style="width: 90%; />
+           <p dir="auto">C# <b style="font-size: 18pt;">&middot;</b> AWS <b style="font-size: 18pt;">&middot</b> Azure <b style="font-size: 18pt;">&middot;</b> T-SQL <b style="font-size: 18pt;">&middot;</b> PL/SQL <b style="font-size: 18pt;">&middot;</b> JS <b style="font-size: 18pt;">&middot;</b> TS <b style="font-size: 18pt;">&middot;</b> Node <b style="font-size: 18pt;">&middot;</b> Vue <b style="font-size: 18pt;">&middot;</b> Linux <b style="font-size: 18pt;">&middot;</b> Windows <b style="font-size: 18pt;">&middot;</b> F# <b style="font-size: 18pt;">&middot;</b> PHP <b style="font-size: 18pt;">&middot;</b> Postgres SQL <b style="font-size: 18pt;">&middot;</b> R <b style="font-size: 18pt;">&middot;</b> Python <b style="font-size: 18pt;">&middot;</b> .Net Core <b style="font-size: 18pt;">&middot;</b> HTML5</p>
 <!---
 tadeochristopher/tadeochristopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
