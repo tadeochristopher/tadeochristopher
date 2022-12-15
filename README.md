@@ -20,35 +20,35 @@
            <p dir="auto">C# <b style="font-size: 18pt;">&middot;</b> AWS <b style="font-size: 18pt;">&middot</b> Azure <b style="font-size: 18pt;">&middot;</b> T-SQL <b style="font-size: 18pt;">&middot;</b> PL/SQL <b style="font-size: 18pt;">&middot;</b> JS <b style="font-size: 18pt;">&middot;</b> TS <b style="font-size: 18pt;">&middot;</b> Node <b style="font-size: 18pt;">&middot;</b> Vue <b style="font-size: 18pt;">&middot;</b> Linux <b style="font-size: 18pt;">&middot;</b> Windows <b style="font-size: 18pt;">&middot;</b> F# <b style="font-size: 18pt;">&middot;</b> PHP <b style="font-size: 18pt;">&middot;</b> Postgres SQL <b style="font-size: 18pt;">&middot;</b> R <b style="font-size: 18pt;">&middot;</b> Python <b style="font-size: 18pt;">&middot;</b> .Net Core <b style="font-size: 18pt;">&middot;</b> HTML5 <b style="font-size: 18pt;">&middot;</b> CSS3 <b style="font-size: 18pt">&middot;</b>Sass <b style="font-size: 18pt">&middot</b> jQuery <b style="font-size: 18pt">&middot</b> Lambda <b style="font-size: 18pt">&middot</b> React <b style="font-size: 18pt">&middot</b> Xamarin <b style="font-size: 18pt">&middot</b> Figma <b style="font-size: 18pt">&middot</b> Zen <b style="font-size: 18pt">&middot</b> API <b style="font-size: 18pt">&middot</b> Git <b style="font-size: 18pt">&middot</b> Powershell</p>
 <br />
 <div style="display: flex; flex-wrap: wrap; padding: 0 4px; pointer-events: none;">
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4c3e3aa7049ad1cba40f8ed46c76f6ec9c5ccffe/icons8-c-sharp-logo.svg" width="34" height="34" style="pointer-events: none;" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-amazon-web-services.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4c3e3aa7049ad1cba40f8ed46c76f6ec9c5ccffe/icons8-azure.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-microsoft-sql-server.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-oracle-logo.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-javascript.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-typescript.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-nodejs.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-vue-js.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/fb27403da747bd485c64671f3f43fcbb32489573/icons8-linux-48.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/fb27403da747bd485c64671f3f43fcbb32489573/icons8-windows-10.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/51cb4dc7463ccbe86d5a67b67920997b442eda82/logo-F-Sharp.png" width="34" height="34" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/8de4d0b41b9e6af215c793a9a5689eef6cb17c91/icons8-postgresql.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/2fe44364da9234ddd91702e977fe526d788180b5/RProgramming.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/00d6ac4ea1580b2dede9a6df4513dec1887ce99d/icons8-python-94.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/f5282d5d844cc3f01e6af84961b7db8a316c1bba/icons8-.net-framework.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-css3.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-sass.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-jquery.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-lambda-48.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-react.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-xamarin.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-figma.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4cbb20da3038abbc003d9b4128ff137c84263640/zf2-zce-logo.gif" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-rest-api-48.png" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-git.svg" width="34" height="34" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-powershell-ise.svg" width="34" height="34" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4c3e3aa7049ad1cba40f8ed46c76f6ec9c5ccffe/icons8-c-sharp-logo.svg" width="28" height="28" style="pointer-events: none;" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-amazon-web-services.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4c3e3aa7049ad1cba40f8ed46c76f6ec9c5ccffe/icons8-azure.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-microsoft-sql-server.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-oracle-logo.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-javascript.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-typescript.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-nodejs.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-vue-js.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/fb27403da747bd485c64671f3f43fcbb32489573/icons8-linux-48.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/fb27403da747bd485c64671f3f43fcbb32489573/icons8-windows-10.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/51cb4dc7463ccbe86d5a67b67920997b442eda82/logo-F-Sharp.png" width="28" height="28" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/8de4d0b41b9e6af215c793a9a5689eef6cb17c91/icons8-postgresql.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/2fe44364da9234ddd91702e977fe526d788180b5/RProgramming.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/00d6ac4ea1580b2dede9a6df4513dec1887ce99d/icons8-python-94.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/f5282d5d844cc3f01e6af84961b7db8a316c1bba/icons8-.net-framework.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-css3.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-sass.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-jquery.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-lambda-48.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-react.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-xamarin.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-figma.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4cbb20da3038abbc003d9b4128ff137c84263640/zf2-zce-logo.gif" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-rest-api-48.png" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-git.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-powershell-ise.svg" width="28" height="28" />
 </div>
 <!---
 tadeochristopher/tadeochristopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
