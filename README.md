@@ -15,9 +15,9 @@
   </li>
 </ul>
 <br />
-<h3>Tech Stack</h3>
+<h3>Tech Stack</h3><img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" theme="calm" align="right" borderColor=%ed811f />
 <hr style="width: 90%; />
-           <p dir="auto">C# <b style="font-size: 18pt;">&middot;</b> AWS <b style="font-size: 18pt;">&middot</b> Azure <b style="font-size: 18pt;">&middot;</b> T-SQL <b style="font-size: 18pt;">&middot;</b> PL/SQL <b style="font-size: 18pt;">&middot;</b> JS <b style="font-size: 18pt;">&middot;</b> TS <b style="font-size: 18pt;">&middot;</b> Node <b style="font-size: 18pt;">&middot;</b> Vue <b style="font-size: 18pt;">&middot;</b> Linux <b style="font-size: 18pt;">&middot;</b> Windows <b style="font-size: 18pt;">&middot;</b> F# <b style="font-size: 18pt;">&middot;</b> PHP <b style="font-size: 18pt;">&middot;</b> Postgres SQL <b style="font-size: 18pt;">&middot;</b> R <b style="font-size: 18pt;">&middot;</b> Python <b style="font-size: 18pt;">&middot;</b> .Net Core <b style="font-size: 18pt;">&middot;</b> HTML5 <b style="font-size: 18pt;">&middot;</b> CSS3 <b style="font-size: 18pt">&middot;</b>Sass <b style="font-size: 18pt">&middot</b> jQuery <b style="font-size: 18pt">&middot</b> Lambda <b style="font-size: 18pt">&middot</b> React <b style="font-size: 18pt">&middot</b> Xamarin <b style="font-size: 18pt">&middot</b> Figma <b style="font-size: 18pt">&middot</b> Zen <b style="font-size: 18pt">&middot</b> API <b style="font-size: 18pt">&middot</b> Git <b style="font-size: 18pt">&middot</b> Powershell</p>
+           <p dir="auto">C# <b style="font-size: 18pt;">&middot;</b> AWS <b style="font-size: 18pt;">&middot</b> Azure <b style="font-size: 18pt;">&middot;</b> T-SQL <b style="font-size: 18pt;">&middot;</b> PL/SQL <b style="font-size: 18pt;">&middot;</b> JS <b style="font-size: 18pt;">&middot;</b> TS <b style="font-size: 18pt;">&middot;</b> Node <b style="font-size: 18pt;">&middot;</b> Vue <b style="font-size: 18pt;">&middot;</b> Linux <b style="font-size: 18pt;">&middot;</b> Windows <b style="font-size: 18pt;">&middot;</b> F# <b style="font-size: 18pt;">&middot;</b> PHP <b style="font-size: 18pt;">&middot;</b> Postgres SQL <b style="font-size: 18pt;">&middot;</b> R <b style="font-size: 18pt;">&middot;</b> Python <b style="font-size: 18pt;">&middot;</b> .Net Core <b style="font-size: 18pt;">&middot;</b> HTML5 <b style="font-size: 18pt;">&middot;</b> CSS3 <b style="font-size: 18pt">&middot;</b>Sass <b style="font-size: 18pt">&middot</b> jQuery <b style="font-size: 18pt">&middot</b> Lambda <b style="font-size: 18pt">&middot</b> React <b style="font-size: 18pt">&middot</b> Xamarin <b style="font-size: 18pt">&middot</b> Figma <b style="font-size: 18pt">&middot</b> Zen <b style="font-size: 18pt">&middot</b> API <b style="font-size: 18pt">&middot</b> Git <b style="font-size: 18pt">&middot</b> Powershell <b style="font-size: 18pt">&middot</b> Java</p>
 <br />
 <div style="display: flex; flex-wrap: wrap; padding: 0 4px; pointer-events: none;">
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4c3e3aa7049ad1cba40f8ed46c76f6ec9c5ccffe/icons8-c-sharp-logo.svg" alt="C-Sharp" title="C-Sharp" width="28" height="28" style="pointer-events: none;" />
@@ -49,10 +49,19 @@
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-rest-api-48.png" alt="Rest" title="Rest" width="28" height="28" />
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-git.svg" alt="Git" title="Git" width="28" height="28" />
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-powershell-ise.svg" alt="Powershell" title="Powershell" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/da27c003e38af701e4666c540b027774e3d688a7/icons8-java.svg" alt="Java" title="Java" width="28" height="28" />
 </div>
-<div style="background-color: #000; width: 500px;">
+<div style="background-color: #000; width: 500px;" align="center">
+ <hr style="width: 90%" />
+
+### :fire: Tadeochristopher Walker's GitHub Stats :
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tadeochristopher&theme=dark&background=171c28)](https://git.io/streak-stats)
+</div>
+<br />
+<div align="right">
+ <!-- Markdown -->
 </div>
 <!---
 tadeochristopher/tadeochristopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->    
