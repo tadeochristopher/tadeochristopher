@@ -36,19 +36,19 @@
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/8de4d0b41b9e6af215c793a9a5689eef6cb17c91/icons8-postgresql.svg" alt="Postgres SQL" title="Postgres SQL" width="28" height="28" />
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/2fe44364da9234ddd91702e977fe526d788180b5/RProgramming.png" alt="R programming" title="R programming" width="28" height="28" />
   <img src="https://github.com/tadeochristopher/tadeochristopher/blob/00d6ac4ea1580b2dede9a6df4513dec1887ce99d/icons8-python-94.png" alt="Python" title="Python" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/f5282d5d844cc3f01e6af84961b7db8a316c1bba/icons8-.net-framework.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48.png" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-css3.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-sass.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-jquery.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-lambda-48.png" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-react.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-xamarin.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-figma.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4cbb20da3038abbc003d9b4128ff137c84263640/zf2-zce-logo.gif" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-rest-api-48.png" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-git.svg" width="28" height="28" />
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-powershell-ise.svg" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/f5282d5d844cc3f01e6af84961b7db8a316c1bba/icons8-.net-framework.svg" alt="Dot Net Core" title="Dot Net Core" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48.png" alt="HTML 5" title="HTML 5" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-css3.svg" alt="CSS 3" title="CSS 3" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-sass.svg" alt="Sass" title="Sass" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-jquery.svg" alt="jQuery" title="jQuery" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-lambda-48.png" alt="Lambda" title="Lambda" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/858ac8915273c32f534f7a83b24e49a896c7f072/icons8-react.svg" alt="React" title="React" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-xamarin.svg" alt="Xamarin" title="Xamarin" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-figma.svg" alt="Figma" title="Figma" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/4cbb20da3038abbc003d9b4128ff137c84263640/zf2-zce-logo.gif" alt="Zen Framework" title="Zen Framework" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/78f87e6e68fa368bacbe8b5f070b05d26a260cac/icons8-rest-api-48.png" alt="Rest" title="Rest" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-git.svg" alt="Git" title="Git" width="28" height="28" />
+  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/56346fcd9c3e5bf546e95b9de3143b04542a8ce1/icons8-powershell-ise.svg" alt="Powershell" title="Powershell" width="28" height="28" />
 </div>
 <div style="background-color: #000; width: 500px;">
 </div>
