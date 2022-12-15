@@ -1,4 +1,4 @@
-<h3>Hello there! I'm Walker<img src="https://github.com/tadeochristopher/contentrepo/blob/e7bb1384fe93bb6522296f7c81bf02735875b193/WavingHandHi.png" width="18" height="18" /></h3>
+<h3>Hello there! I'm Walker<img src="https://github.com/tadeochristopher/contentrepo/blob/e7bb1384fe93bb6522296f7c81bf02735875b193/WavingHandHi.png" width="18" height="18" />&nbsp;<img src="https://github.com/tadeochristopher/tadeochristopher/blob/5d27857840a8ffc6fc6c964bb8131e30afc670dd/CodeAddict.png" width="18" height="18" /></h3>
 <hr style="width: 50%; text-align: left; margin-left: 0; background: #ed811f; line-height: .5px;" />
 <ul style="list-style-type: none;">
   <li>Glad you showed up! Anything I can do for you, drop me a line if I can be of service to you.
