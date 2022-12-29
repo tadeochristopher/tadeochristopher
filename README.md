@@ -60,8 +60,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&langs_count=10&border_color=ed811f&theme=radical&title_color=ed811f&custom_title=Usage)](https://github.com/tadeochristopher/github-readme-stats)
 </div>
 <br />
-<div align="right">
+<div align="right" style="Background-color: #ff0055;">
  <!-- Markdown -->
+  
 </div>
 <!---
 tadeochristopher/tadeochristopher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
