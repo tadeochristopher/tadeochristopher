@@ -58,7 +58,7 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tadeochristopher&theme=dark&background=171c28&border=ed811f)](https://git.io/streak-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tadeochristopher&langs_count=10&border_color=ed811f&theme=radical&title_color=ed811f&custom_title=Usage)](https://github.com/tadeochristopher/github-readme-stats)
-  <img src="https://github.com/tadeochristopher/tadeochristopher/blob/d3f539b518859a262ec51b2afe1cffbe13cc7e3f/PrivateRepo.svg" style="width: 75%;" />
+  <a href="https://git.io/stats" target="_self" alt="https://git.io/stats"><img src="https://github.com/tadeochristopher/tadeochristopher/blob/d3f539b518859a262ec51b2afe1cffbe13cc7e3f/PrivateRepo.svg" style="width: 75%;" title="https://git.io/stats" alt="https://git.io/stats" /></a>
 </div>
 <br />
 <div align="right" style="Background-color: #ff0055;">
